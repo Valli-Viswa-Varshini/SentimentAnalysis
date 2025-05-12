@@ -1,7 +1,4 @@
-# 💬 Sentiment Analysis Using ML Models
-
-[🔗 View Project](LINK)  
-<!-- Replace LINK with your actual GitHub project URL -->
+#💬 Sentiment Analysis Using ML Models
 
 ---
 
